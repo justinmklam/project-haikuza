@@ -1,0 +1,34 @@
+Created At,User,Tweet Request
+Sun Jul 12 03:53:48 +0000 2015,thehaikuza,Bohemian Rhapsody by Queen #haikurequest @thehaikuza
+Sun Jul 12 02:43:05 +0000 2015,amandahlamb,@thehaikuza sugar by maroon 5
+Sat Jul 11 19:33:14 +0000 2015,thehaikuza,Stayin Alive by Bee Gees #haikurequest @thehaikuza
+Sat Jul 11 06:21:20 +0000 2015,thehaikuza,@thehaikuza Anaconda by Nicki Minaj
+Sat Jul 11 06:18:43 +0000 2015,thehaikuza,@thehaikuza See You Again by Wiz Khalifa
+Sat Jul 11 06:05:25 +0000 2015,thehaikuza,@thehaikuza Blank Space by Taylor Swift
+Sat Jul 11 06:04:09 +0000 2015,thehaikuza,@thehaikuza Mention cheating 'cause / Now do cheerleader empty / Bottle solution. (Song: Cheerleader by Omi)
+Sat Jul 11 05:45:02 +0000 2015,thehaikuza,@thehaikuza Cheerleader by Omi
+Sun Jul 12 21:14:03 +0000 2015,thehaikuza,Want To Want Me by Jason Derulo #haikurequest @thehaikuza
+Sun Jul 12 23:49:05 +0000 2015,thehaikuza,Yesterday by the beatles #haikurequest @thehaikuza
+Mon Jul 13 01:29:42 +0000 2015,thehaikuza,Pools by glass animals @thehaikuza
+Mon Jul 13 01:29:02 +0000 2015,thehaikuza,Born to die by lana del ray #haikurequest @thehaikuza
+Thu Jul 16 04:11:21 +0000 2015,thehaikuza,Loud places by Jamie XX #haikurequest @thehaikuza
+Thu Jul 16 04:08:05 +0000 2015,thehaikuza,Ain't no rest for the wicked by cage the elephant #haikurequest @thehaikuza
+Thu Jul 16 07:11:43 +0000 2015,thehaikuza,Send me down by haim #haikurequest @thehaikuza
+Thu Jul 16 07:51:27 +0000 2015,justinmklam,@thehaikuza Thrift shop by macklemore #haikurequest
+Thu Jul 16 07:40:26 +0000 2015,justinmklam,@thehaikuza Blank space by taylor swift #haikurequest
+Thu Jul 16 07:35:19 +0000 2015,thehaikuza,Pompeii by bastille #haikurequest @thehaikuza
+Fri Jul 17 07:42:10 +0000 2015,justinmklam,@thehaikuza the heat by jungle #haikurequest
+Fri Jul 17 07:33:22 +0000 2015,justinmklam,@thehaikuza Started from the bottom by drake #haikurequest
+Fri Jul 17 08:16:04 +0000 2015,justinmklam,@thehaikuza blank space by taylor swift #haikurequest
+Fri Jul 17 08:03:52 +0000 2015,justinmklam,@thehaikuza Bad blood by taylor swift #haikurequest
+Fri Jul 17 07:49:47 +0000 2015,justinmklam,@thehaikuza thrift shop by macklemore
+Fri Jul 17 07:47:50 +0000 2015,justinmklam,@thehaikuza satisfied by cee lo green #haikurequest
+Fri Jul 17 07:45:00 +0000 2015,justinmklam,@thehaikuza time by jungle #haikurequest
+Sat Jul 18 04:48:06 +0000 2015,justinmklam,@thehaikuza Crystals of monsters and men #haikurequest
+Sat Jul 18 04:53:27 +0000 2015,justinmklam,@thehaikuza crystals of monsters and men
+Sat Jul 18 04:54:00 +0000 2015,justinmklam,@thehaikuza crystals by of monsters and men
+Sat Jul 18 05:17:26 +0000 2015,justinmklam,@thehaikuza talking body by tove lo #haikurequest
+Sat Jul 18 05:09:19 +0000 2015,justinmklam,@thehaikuza cheerleader by omi #haikurequest
+Sat Jul 18 05:03:09 +0000 2015,justinmklam,@thehaikuza modern love by mother mother
+Sat Jul 18 05:02:55 +0000 2015,justinmklam,@thehaikuza molotov girls by the zolas #haikurequest
+Sat Jul 18 08:21:17 +0000 2015,justinmklam,@thehaikuza bohemian rhapsody by queen #haikurequest

@@ -1,0 +1,8 @@
+MODULE DEPENDENCIES:
+	pip install nltk
+	pip install twython
+	pip install --upgrade oauth2client
+	pip install PyOpenSSL
+	lyrics
+	sudo apt-get install python-lxml
+	gspread
